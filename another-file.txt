@@ -1,1 +1,4 @@
-This is another file that I added as a second developer
+This is another file that I added as a second developer.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare vitae nisl eget ullamcorper. Sed sit amet eleifend eros. Nunc venenatis ut velit sed finibus. Quisque nec venenatis est. Donec suscipit est nec ornare fermentum. Integer ac magna risus. Suspendisse iaculis fringilla sodales.
+
+Cras lacinia ligula est, et consequat magna ullamcorper quis. Maecenas sed dolor massa. Sed et volutpat libero. Aliquam velit odio, porta aliquet convallis id, fermentum vel augue. Suspendisse potenti. Pellentesque orci ligula, facilisis in ipsum ac, accumsan euismod nulla. Proin varius, turpis quis cursus hendrerit, nunc dolor eleifend nunc, sed fringilla elit massa id nisl. Quisque suscipit eleifend congue. Nulla vitae rutrum libero. Curabitur a lorem id nulla vulputate pellentesque. Pellentesque porttitor luctus eros, nec varius est facilisis vitae. Nunc sapien ipsum, posuere nec semper in, rutrum quis massa. Integer efficitur non ligula eu eleifend. Aenean lobortis erat magna, sit amet dignissim lorem ultricies ut. Maecenas egestas tincidunt ex nec rutrum.
