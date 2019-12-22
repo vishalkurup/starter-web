@@ -28,4 +28,4 @@ Explain what these tests test and why. Adding some more text to this section.
 
 ## Copyright
 
-copyright Vishal
+copyright Vishal. Added some more copyright info.
