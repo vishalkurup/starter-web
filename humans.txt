@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vishal Developer @vishalkurup
 
 # THANKS
 
