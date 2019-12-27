@@ -28,4 +28,4 @@ Explain what these tests test and why. Adding some more text to this section.
 
 ## Copyright
 
-copyright Vishal. Added some more copyright info.
+copyright Vishal. Added some more copyright info. Add some changes for our simple stashing example.
